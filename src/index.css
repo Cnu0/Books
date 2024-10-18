@@ -140,7 +140,7 @@ cursor: pointer;
 }
 .b-box:hover{
   box-shadow: 1px 1px  12px rgba(90, 87, 87, 0.2);
-  background: linear-gradient(45deg, rgba(80, 77, 78, 0.965),rgb(97, 194, 227));
+  background: linear-gradient(45deg, rgba(41, 41, 41, 0.965),rgb(0, 0, 0));
   transition: all ease 0.5s;
   color: #ffffff;
   border: 4px solid #4d545f;

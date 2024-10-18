@@ -14,7 +14,7 @@ function Contact() {
   
 <div className="con">
   
-  <h3><MdOutlineWifiCalling3 />+251966776010</h3>
+  <h3><MdOutlineWifiCalling3 />+251912222622</h3>
   <h3> <email><MdEmail />abebemersha1921@gmail.com  </email></h3>
   <h3><FaFacebook /> Abebe Mersha </h3>
 
